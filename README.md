@@ -19,6 +19,8 @@ Ademas a continuación se comparte el codigo para pasar desde el dataset CSV a u
 
 ![imagen](https://github.com/Carlitos2823/DjangoProject/assets/107945651/79448e9e-4c6d-4b2a-9f33-179413d8b8a9)
 
+![imagen](https://github.com/Carlitos2823/DjangoProject/assets/107945651/ca0cad91-31c0-48e4-9a01-a8f4f2371072)
+
 ### También se tiene acceso al sistema de superusuarios
 
 ![imagen](https://github.com/Carlitos2823/DjangoProject/assets/107945651/1bcdf2ea-f0eb-4b80-a690-fe28f56f6654)

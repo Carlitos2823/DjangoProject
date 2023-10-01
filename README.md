@@ -3,7 +3,9 @@
 
 EL sistema muesra el archivo CSV sacado de la fuente de internet https://www.stats.govt.nz/large-datasets/csv-files-for-download/
 
-Ademas a continuacion se comparte el codigo para pasar desde el dataset CSV a una base de datos llamada libreria diseñada en SQLite
+![imagen](https://github.com/Carlitos2823/DjangoProject/assets/107945651/586da051-f474-44f2-b879-3585814e2fa6)
+
+Ademas a continuación se comparte el codigo para pasar desde el dataset CSV a una base de datos llamada libreria diseñada en SQLite
 
 ## **SCRIPT PARA PASAR DE UN CSV A UNA TABLA DE SQLITE**
 import csv
@@ -38,6 +40,10 @@ conn.close()
 ![imagen](https://github.com/Carlitos2823/DjangoProject/assets/107945651/de9d93f7-e4f1-4d34-92d4-2d000a32fa89)
 
 ![imagen](https://github.com/Carlitos2823/DjangoProject/assets/107945651/79448e9e-4c6d-4b2a-9f33-179413d8b8a9)
+
+### También se tiene acceso al sistema de superusuarios
+
+![imagen](https://github.com/Carlitos2823/DjangoProject/assets/107945651/1bcdf2ea-f0eb-4b80-a690-fe28f56f6654)
 
 
 
